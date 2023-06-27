@@ -3,7 +3,7 @@
     {
       "id": 2,
       "text": "Make food",
-      "complete": false
+      "complete": true
     },
     {
       "id": 3,
